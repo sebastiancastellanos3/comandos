@@ -4,6 +4,8 @@ Práctica de direccionamiento IP con FLSM (Fixed Length Subnet Masking) sobre la
 
 ## Topología
 
+![Topología de red Cisco](img/ciscoredes.png)
+
 ```
 PC2 -- SW3 -- R2 (Router1) === WAN === R1CENTRAL (Router1(1)) -- SW1 -- PC1
                                               |
